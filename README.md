@@ -36,4 +36,4 @@ El objetivo principal fue mostrar los **primeros 50 términos** de cada sucesió
 Podés acceder a la pagina web con:  
 [Dandome click aca](https://32b939e7-260e-4f41-a1fb-ef2b3f17934d-00-fpg8dealay87.picard.replit.dev:4200)
 
-[<img width="141" height="144" alt="image" src="https://github.com/user-attachments/assets/60c0bbbf-8a80-4265-b484-3ee779cd197c" />](https://32b939e7-260e-4f41-a1fb-ef2b3f17934d-00-fpg8dealay87.picard.replit.dev:4200)
+[![image](https://github.com/user-attachments/assets/60c0bbbf-8a80-4265-b484-3ee779cd197c)](https://32b939e7-260e-4f41-a1fb-ef2b3f17934d-00-fpg8dealay87.picard.replit.dev:4200)
