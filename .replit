@@ -1,0 +1,18 @@
+[workflows]
+runButton = "PHP Server"
+
+[[workflows.workflow]]
+name = "PHP Server"
+author = 45862328
+mode = "sequential"
+
+[[workflows.workflow.tasks]]
+task = "shell.exec"
+args = "php -S 0.0.0.0:5000 -t ."
+
+[nix]
+packages = ["php"]
+
+[[ports]]
+localPort = 5000
+externalPort = 4200
