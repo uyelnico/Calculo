@@ -31,6 +31,10 @@ El objetivo principal fue mostrar los **primeros 50 términos** de cada sucesió
 
 ---
 
+## Arranca la pagina por tu cuenta 
+
+[Click aca](https://replit.com/@nicolaychiazzar/Calculo)
+
 ## Pagina web
 
 Podés acceder a la pagina web con:  
